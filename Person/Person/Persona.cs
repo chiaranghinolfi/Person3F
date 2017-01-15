@@ -24,7 +24,7 @@ namespace Person
 
         }
         public Persona(string nome, string cognome, int anni)
-        {
+        { }
         private string _codicefiscale;
         public string codicefiscale { get { return nome + cognome + anni; } }
 
@@ -38,6 +38,5 @@ namespace Person
 
         }
     }
-    }
-
 }
+

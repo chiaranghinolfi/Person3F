@@ -1,1 +1,2 @@
 Z:\Person3F\Person\Person\bin\Debug\Person.exe.config
+C:\Users\Chiara\Desktop\Superiori\Informatica\C#\Person3F\Person\Person\bin\Debug\Person.exe.config
